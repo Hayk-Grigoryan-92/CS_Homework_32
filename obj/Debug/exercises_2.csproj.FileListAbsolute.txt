@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\C#\Lesson32\homework32\exercises_2\bin\Debug\exercises_2.exe.config
+C:\Users\ASUS\Desktop\C#\Lesson32\homework32\exercises_2\bin\Debug\exercises_2.exe
+C:\Users\ASUS\Desktop\C#\Lesson32\homework32\exercises_2\bin\Debug\exercises_2.pdb
+C:\Users\ASUS\Desktop\C#\Lesson32\homework32\exercises_2\obj\Debug\exercises_2.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C#\Lesson32\homework32\exercises_2\obj\Debug\exercises_2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C#\Lesson32\homework32\exercises_2\obj\Debug\exercises_2.exe
+C:\Users\ASUS\Desktop\C#\Lesson32\homework32\exercises_2\obj\Debug\exercises_2.pdb
